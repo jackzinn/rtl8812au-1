@@ -3,6 +3,22 @@ EXECUTE APENAS ESTES COMANDOS
 
 
 sudo apt install git dkms build-essential
+
+
+
+
 git clone https://github.com/jeremyb31/rtl8812au-1.git
+
+
+
+
+
+
 cd rtl8812au-1
+
+
+
+
+
+
 sudo ./dkms-install.sh
